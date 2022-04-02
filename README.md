@@ -328,5 +328,5 @@ contract ERC20 is IERC20 {
     _burn(account, amount);
   }
 }
-© 2021 GitHub, Inc.
+https://github.com/P7-33/SWAPBROWSER.COM.wiki.git
 
