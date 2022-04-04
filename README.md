@@ -20,7 +20,7 @@ pragma solidity ^0.4.24;
 ---
 eip: 20
 title: Token Standard
-author:@ReimondBrands@gmail.com
+author:
 type: Standards
 category: ERC
 status: Final
